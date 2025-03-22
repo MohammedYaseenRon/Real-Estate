@@ -112,7 +112,7 @@
   --sidebar-ring: oklch(0.551 0.027 264.364);
 }
 
-.dashboard-container {
+/* .dashboard-container {
   @apply pt-8 pb-5 px-8;
 }
 
@@ -165,7 +165,7 @@
 
 .marker-popup-price-unit {
   @apply text-xs text-primary-500 font-normal;
-}
+} */
 
 /* scrollbar styling */
 ::-webkit-scrollbar {
@@ -176,14 +176,14 @@
   background: transparent;
 }
 
-::-webkit-scrollbar-thumb {
+/* ::-webkit-scrollbar-thumb {
   @apply bg-primary-200;
   border-radius: 3px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
   @apply bg-primary-300;
-}
+} */
 
 @layer base {
   * {
